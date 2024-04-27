@@ -10,7 +10,7 @@ A CPP code to convert puzzle files (FNS format files) in Lucas Chess to PGN form
 5- Watch the conversion and use the generated PGN file.
 
 
-#ADDITIONAL INFO
+# ADDITIONAL INFO
 
 The "Lichess puzzles option" deals with converting the resulting NFS files to PGN after you have already placed them in Lucas Chess software as puzzles or games, which can then be used as puzzles.
 
