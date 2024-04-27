@@ -4,9 +4,13 @@ A CPP code to convert puzzle files (FNS format files) in Lucas Chess to PGN form
 
 # USE
 1- Compile the code or run fnstopgn.exe directly.
+
 2- Select the language in which you want the things you need to do to be written (1 = Turkish, 2 = English)
+
 3- Make sure that the FNS file to be converted and the path where the EXE file is located are the same.
+
 4- Type the name of the FNS file to be converted, with its extension (for example matein.fns)
+
 5- Watch the conversion and use the generated PGN file.
 
 
